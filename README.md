@@ -1,10 +1,6 @@
 ## Hi there 👋
 Rida Zubair's GitHub Playground
 I'm Rida Zubair, and I'm currently a Data Science student in FAST NUCES (27). I'm thrilled to be part of the incredible GitHub community!   As someone who thrives on innovation and collaboration, I'm excited to dive into the world of open-source projects, contribute my skills, and learn from the brilliant minds here.
-<!--
-**Rida-Zubair/Rida-Zubair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 My Passions and Pursuits:
 The world of tech captivates me, especially when it comes to  web development, data analysis, mobile app creation. I'm constantly on the lookout for new technologies to conquer, fascinating problems to crack, and inspiring discussions with fellow developers.
@@ -33,6 +29,6 @@ Follow me to stay updated on my coding journey, and let's create something extra
 ridazubair192004@gmail.com
 
 - 😄 Happy coding! 
--->
+
 
 
